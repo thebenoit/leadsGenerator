@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pymongo
+selenium-wire
+undetected-chromedriver
+python-dotenv
+selenium
+packaging
+setuptools
+blinker==1.6.0

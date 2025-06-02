@@ -145,6 +145,7 @@ class Scraper:
             print(f"Erreur lors de l'insertion des données dans la base de données: {e}")
             
 def main():
+    print("Début du scraping...")
     scraper = Scraper()
     driver = scraper.initialize_driver()
     
